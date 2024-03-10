@@ -6,3 +6,5 @@
 ```
 print("Ohayo")
 ```
+- [x] Kick some ass
+- [ ] Eat humburger
